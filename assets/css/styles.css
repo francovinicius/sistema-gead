@@ -1,0 +1,32 @@
+.div-left {
+    border-right: 12px solid #a02c2c;
+}
+
+.div-left li {
+    margin-bottom: 1rem;
+}
+
+.li-left img {
+    margin-top: 3rem;
+}
+
+.nav-left {
+
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    font-size: 16px;
+
+}
+
+.nav-left:hover {
+
+    color: #fff;
+    text-decoration: none;
+}
+
+.hr-left {
+    color: #fff;
+    margin-top: 10rem;
+    margin-bottom: 3rem;
+}
